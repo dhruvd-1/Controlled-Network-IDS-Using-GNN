@@ -1,0 +1,26 @@
+# Ignore Python virtual environments
+venv/
+IOT_EL_venv/
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (optional)
+.vscode/
+
+# Environment variables or secrets
+.env
+
+# Data files and logs
+*.log
+*.csv
+*.pkl
+*.joblib
+
+# OS-specific
+.DS_Store
+Thumbs.db

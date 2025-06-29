@@ -1,0 +1,152 @@
+[
+  {
+    "timestamp": "2025-06-28T12:21:50.508468",
+    "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:50.708468",
+    "node_id": "ESP32_002",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:50.908468",
+    "node_id": "ESP32_003",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:51.108468",
+    "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.11
+  },
+  {
+    "timestamp": "2025-06-28T12:21:51.308468",
+    "node_id": "ESP32_002",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:51.508468",
+    "node_id": "ESP32_003",
+    "prediction": "NORMAL",
+    "confidence": 0.11
+  },
+  {
+    "timestamp": "2025-06-28T12:21:51.708468",
+    "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:51.908468",
+    "node_id": "ESP32_002",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:52.108468",
+    "node_id": "ESP32_003",
+    "prediction": "NORMAL",
+    "confidence": 0.11
+  },
+  {
+    "timestamp": "2025-06-28T12:21:52.308468",
+    "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:52.508468",
+    "node_id": "ESP32_002",
+    "prediction": "NORMAL",
+    "confidence": 0.11
+  },
+  {
+    "timestamp": "2025-06-28T12:21:52.708468",
+    "node_id": "ESP32_003",
+    "prediction": "NORMAL",
+    "confidence": 0.09
+  },
+  {
+    "timestamp": "2025-06-28T12:21:52.908468",
+    "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:53.108468",
+    "node_id": "ESP32_002",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:53.308468",
+    "node_id": "ESP32_003",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:53.508468",
+    "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:53.708468",
+    "node_id": "ESP32_002",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:53.908468",
+    "node_id": "ESP32_003",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:54.108468",
+    "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:54.308468",
+    "node_id": "ESP32_002",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:54.508468",
+    "node_id": "ESP32_003",
+    "prediction": "NORMAL",
+    "confidence": 0.11
+  },
+  {
+    "timestamp": "2025-06-28T12:21:54.708468",
+    "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:54.908468",
+    "node_id": "ESP32_002",
+    "prediction": "NORMAL",
+    "confidence": 0.12
+  },
+  {
+    "timestamp": "2025-06-28T12:21:55.108468",
+    "node_id": "ESP32_003",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:21:55.308468",
+    "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  }
+]
